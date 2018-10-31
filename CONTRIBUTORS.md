@@ -1413,6 +1413,12 @@ About: Computer Engineering Student
 Programming Language: python, java, c, c++
 Email: furkan.goksel27@gmail.com
 
+Name: [Charanjeet Singh](https://github.com/singh03)<br/>
+Place: New Delhi, India <br/>
+About: Computer Science Student and Intern<br/>
+Programming Languages: Java, Python, C , C++, Android Studio<br/>
+Email: singhcharanjeet014@gmail.com<br/>
+
 Name: [Paul Flanagan](https://github.com/paultflanagan)<br/>
 Place: New Jersey, United States <br/>
 About: Computer Science Student and Intern<br/>
